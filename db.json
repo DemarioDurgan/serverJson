@@ -13,21 +13,7 @@
   },
   "four":{
     "url":"",
-    "isToPage":false,
-    "AllNum":{
-    "five":{
-      "url":"",
-      "isToPage":false
-    },
-    "six":{
-      "url":"",
-      "isToPage":false
-    },
-    "seven":{
-      "url":"",
-      "isToPage":false
-    }
-  }
+    "isToPage":false
   },
   "AllNum":{
     "five":{
