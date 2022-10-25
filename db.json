@@ -22,9 +22,5 @@
   "six":{
     "url":"",
     "isToPage":false
-  },
-  "seven":{
-    "url":"",
-    "isToPage":false
   }
 }
