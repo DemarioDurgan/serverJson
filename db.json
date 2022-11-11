@@ -27,6 +27,26 @@
     "seven":{
       "url":"https://www.49jili.ph/?uagt=gx015&path=root",
       "isToPage":true
+    },
+    "eight":{
+      "url":"",
+      "isToPage":false
+    },
+    "nine":{
+      "url":"",
+      "isToPage":false
+    },
+    "ten":{
+      "url":"",
+      "isToPage":false
+    },
+    "eleven":{
+      "url":"",
+      "isToPage":false
+    },
+    "twelve":{
+      "url":"",
+      "isToPage":false
     }
   }
 }
