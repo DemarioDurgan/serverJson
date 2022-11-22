@@ -4,8 +4,8 @@
     "isToPage":true
   },
   "two":{
-    "url":"",
-    "isToPage":false
+    "url":"https://www.49jili.ph/?uagt=gx008&path=root",
+    "isToPage":true
   },
   "three":{
     "url":"",
@@ -17,8 +17,8 @@
   },
   "AllNum":{
     "five":{
-      "url":"https://www.bwinph.com/?uagt=wkapp002&path=root",
-      "isToPage":true
+      "url":"",
+      "isToPage":false
     },
     "six":{
       "url":"https://www.bwinph.com/?uagt=appfeirui021&path=root",
