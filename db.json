@@ -1,6 +1,6 @@
 {
   "one":{
-    "url":"https://www.49jili.ph/?uagt=gx073&path=root",
+    "url":",
     "isToPage":true
   },
   "two":{
@@ -37,12 +37,12 @@
       "isToPage":true
     },
     "ten":{
-      "url":"https://www.49jili.ph/?uagt=gx084&path=root",
-      "isToPage":true
+      "url":"",
+      "isToPage":false
     },
     "eleven":{
-      "url":"https://www.49jili.ph/?uagt=gx085&path=root",
-      "isToPage":true
+      "url":"",
+      "isToPage":false
     },
     "twelve":{
       "url":"https://www.49jili.ph/?uagt=gx075&path=root",
